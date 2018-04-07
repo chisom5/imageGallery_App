@@ -1,0 +1,54 @@
+body {
+    background: #333;
+    margin: 20px;
+    padding: 0px;
+}
+
+body h1 {
+    color: #fff;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.container {
+    width: 760px;
+    margin: auto;
+    border: #fff solid 3px;
+    background: #fff;
+}
+
+.main-img img,
+.imgs img {
+    width: 100%
+}
+
+.imgs {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 5px;
+    margin-top: 5px;
+}
+
+footer {
+    text-align: center;
+    margin: 30px 0px;
+}
+
+footer p {
+    color: #fff;
+    font-size: 0.9rem;
+}
+
+
+/* css aimation for the images */
+
+@keyframes fadeIn {
+    to {
+        opacity: 1;
+    }
+}
+
+.fade-in {
+    opacity: 0;
+    animation: fadeIn 0.5s ease-in 1 forwards;
+}
