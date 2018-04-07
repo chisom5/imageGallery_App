@@ -3,9 +3,9 @@
 This is an image Gallery Application that is implemented with vanillaJS and a
 bit of ES6.
 
-You should check it out here [chisom5.github.io/imageGallery_App/](chisom5.github.io/imageGallery_App/) 
+You should check it out here [https://chisom5.github.io/imageGallery_App/](https://chisom5.github.io/imageGallery_App/) 
 
-![coverImage](img-Gallery/coverPhoto.jpg)
+![coverImage](./img-Gallery/coverPhoto.png)
 
 ## Thing Learnt from this project
 
