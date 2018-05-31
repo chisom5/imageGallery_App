@@ -12,3 +12,8 @@ You should check it out here [https://chisom5.github.io/imageGallery_App/](https
 I learnt some ES6 structure such as destructuring feature in the project.
 i.e const [current, imgs] = [document.querySelector('#current'), document.querySelectorAll('.imgs img')];
 
+### To run the project on your system:
+
+* Download the Project Folder.
+* You can use a local server to open the index.html or just run the index.html file.
+Enjoy!
