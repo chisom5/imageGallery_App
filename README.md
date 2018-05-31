@@ -16,4 +16,4 @@ i.e const [current, imgs] = [document.querySelector('#current'), document.queryS
 
 * Download the Project Folder.
 * You can use a local server to open the index.html or just run the index.html file.
-* Enjoy!
+* Enjoy!and feel free to contribute to this project.
